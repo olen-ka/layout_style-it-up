@@ -19,14 +19,6 @@ div:hover {
   background-color: black;
 }
 
-#header:hover {
-  height: 200px;
-}
-
-#footer:hover {
-  height: 200px;
-}
-
 .important {
   background-color: red;
 }
